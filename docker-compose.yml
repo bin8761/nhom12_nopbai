@@ -1,6 +1,6 @@
 services:
   app:
-    image: trianh8761/trianh:1.0
+    image: trianh8761/trianh26:1.0
     build: .
     ports:
       - "8080:8080"
